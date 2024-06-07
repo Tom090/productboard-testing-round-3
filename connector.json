@@ -1,0 +1,1 @@
+{"name":"productboard-testing-round-3","version":"1.0","title":"Productboard Testing round 3","description":"Perform actions in your Productboard instance","service":{"name":"productboard","version":"1"},"tags":["service"],"isTrigger":false,"rawHttp":{"enabled":true}}
